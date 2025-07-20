@@ -115,9 +115,9 @@ python manage.py runserver
 ---
 
 ## Equipe responsável pelo projeto:
-Fernando Antonio 
-Jayr Martins 
-Rafael da Conceição 
-Tiago Ramalho
+--Fernando Antonio 
+--Jayr Martins 
+--Rafael da Conceição 
+--Tiago Ramalho
 
 
